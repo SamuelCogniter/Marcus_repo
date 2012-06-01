@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Books</key>
+	<dict>
+		<key>Book2</key>
+		<array>
+			<dict>
+				<key>ExerciseMainAudio</key>
+				<string>01 The Boat Race - Music</string>
+				<key>ExerciseName</key>
+				<string>Top of the world</string>
+				<key>ExerciseColoredImage</key>
+				<string>BIG-sailboat1.jpg</string>
+				<key>ExerciseMainImage</key>
+				<string>TopoftheWorld.png</string>
+				<key>ExerciseSketchImage</key>
+				<string>TheBoatTracing.png</string>
+				<key>ExerciseAudio</key>
+				<string>01 The Boat Race-English</string>
+				<key>Free</key>
+				<string>YES</string>
+			</dict>
+			<dict>
+				<key>ExerciseMainAudio</key>
+				<string>01 The Boat Race - Music</string>
+				<key>ExerciseName</key>
+				<string>Hanging on the tree</string>
+				<key>ExerciseColoredImage</key>
+				<string>BIG-sailboat1.jpg</string>
+				<key>ExerciseMainImage</key>
+				<string>Hangingontree.png</string>
+				<key>ExerciseSketchImage</key>
+				<string>TheBoatTracing.png</string>
+				<key>ExerciseAudio</key>
+				<string>01 The Boat Race-English</string>
+				<key>Free</key>
+				<string>YES</string>
+			</dict>
+			<dict>
+				<key>ExerciseMainAudio</key>
+				<string>01 The Boat Race - Music</string>
+				<key>ExerciseName</key>
+				<string>CAt Ears</string>
+				<key>ExerciseColoredImage</key>
+				<string>BIG-sailboat1.jpg</string>
+				<key>ExerciseMainImage</key>
+				<string>CatEars.png</string>
+				<key>ExerciseSketchImage</key>
+				<string>TheBoatTracing.png</string>
+				<key>ExerciseAudio</key>
+				<string>01 The Boat Race-English</string>
+				<key>Free</key>
+				<string>YES</string>
+			</dict>
+			<dict>
+				<key>ExerciseMainAudio</key>
+				<string>01 The Boat Race - Music</string>
+				<key>ExerciseName</key>
+				<string>Greek Masks</string>
+				<key>ExerciseColoredImage</key>
+				<string>BIG-sailboat1.jpg</string>
+				<key>ExerciseMainImage</key>
+				<string>GreekMasks.png</string>
+				<key>ExerciseSketchImage</key>
+				<string>TheBoatTracing.png</string>
+				<key>ExerciseAudio</key>
+				<string>01 The Boat Race-English</string>
+				<key>Free</key>
+				<string>YES</string>
+			</dict>
+			<dict>
+				<key>ExerciseMainAudio</key>
+				<string>01 The Boat Race - Music</string>
+				<key>ExerciseName</key>
+				<string>Egyptian</string>
+				<key>ExerciseColoredImage</key>
+				<string>BIG-sailboat1.jpg</string>
+				<key>ExerciseMainImage</key>
+				<string>Egyptian.png</string>
+				<key>ExerciseSketchImage</key>
+				<string>TheBoatTracing.png</string>
+				<key>ExerciseAudio</key>
+				<string>01 The Boat Race-English</string>
+				<key>Free</key>
+				<string>YES</string>
+			</dict>
+			<dict>
+				<key>ExerciseMainAudio</key>
+				<string>01 The Boat Race - Music</string>
+				<key>ExerciseName</key>
+				<string>DAncing Dools</string>
+				<key>ExerciseColoredImage</key>
+				<string>BIG-sailboat1.jpg</string>
+				<key>ExerciseMainImage</key>
+				<string>DancingDoll.png</string>
+				<key>ExerciseSketchImage</key>
+				<string>TheBoatTracing.png</string>
+				<key>ExerciseAudio</key>
+				<string>01 The Boat Race-English</string>
+				<key>Free</key>
+				<string>YES</string>
+			</dict>
+			<dict>
+				<key>ExerciseMainAudio</key>
+				<string>01 The Boat Race - Music</string>
+				<key>ExerciseName</key>
+				<string>Curly head</string>
+				<key>ExerciseColoredImage</key>
+				<string>BIG-sailboat1.jpg</string>
+				<key>ExerciseMainImage</key>
+				<string>Curlyhead.png</string>
+				<key>ExerciseSketchImage</key>
+				<string>TheBoatTracing.png</string>
+				<key>ExerciseAudio</key>
+				<string>01 The Boat Race-English</string>
+				<key>Free</key>
+				<string>YES</string>
+			</dict>
+			<dict>
+				<key>ExerciseMainAudio</key>
+				<string>01 The Boat Race - Music</string>
+				<key>ExerciseName</key>
+				<string>crowning king</string>
+				<key>ExerciseColoredImage</key>
+				<string>BIG-sailboat1.jpg</string>
+				<key>ExerciseMainImage</key>
+				<string>crowning.png</string>
+				<key>ExerciseSketchImage</key>
+				<string>TheBoatTracing.png</string>
+				<key>ExerciseAudio</key>
+				<string>01 The Boat Race-English</string>
+				<key>Free</key>
+				<string>YES</string>
+			</dict>
+		</array>
+		<key>Book1</key>
+		<array>
+			<dict>
+				<key>ExerciseMainAudio</key>
+				<string>01 The Boat Race - Music</string>
+				<key>ExerciseName</key>
+				<string>The Boat</string>
+				<key>ExerciseColoredImage</key>
+				<string>BIG-sailboat1.jpg</string>
+				<key>ExerciseMainImage</key>
+				<string>TheBoatExercise.png</string>
+				<key>ExerciseSketchImage</key>
+				<string>TheBoatTracing.png</string>
+				<key>ExerciseAudio</key>
+				<string>01 The Boat Race-English</string>
+				<key>Free</key>
+				<string>YES</string>
+			</dict>
+			<dict>
+				<key>ExerciseMainAudio</key>
+				<string>02 The Sleeping Moon - music</string>
+				<key>ExerciseName</key>
+				<string>The Moon</string>
+				<key>ExerciseColoredImage</key>
+				<string>Moon-Illustration-Full.png</string>
+				<key>ExerciseMainImage</key>
+				<string>TheMoonExercise.png</string>
+				<key>ExerciseSketchImage</key>
+				<string>TheMoonTracing.png</string>
+				<key>ExerciseAudio</key>
+				<string>02 The Sleeping Moon - english</string>
+				<key>Free</key>
+				<string>NO</string>
+			</dict>
+			<dict>
+				<key>ExerciseMainAudio</key>
+				<string>03 Downtown New York - music</string>
+				<key>ExerciseName</key>
+				<string>DownTown New York</string>
+				<key>ExerciseColoredImage</key>
+				<string>DownTown_NewYork_Colored.png</string>
+				<key>ExerciseMainImage</key>
+				<string>DownTownExercise.png</string>
+				<key>ExerciseSketchImage</key>
+				<string>DownTownTracing.png</string>
+				<key>ExerciseAudio</key>
+				<string>03 Downtown New York - english</string>
+				<key>Free</key>
+				<string>NO</string>
+			</dict>
+			<dict>
+				<key>ExerciseMainAudio</key>
+				<string>04 The Conductor - music</string>
+				<key>ExerciseName</key>
+				<string>The Conductor</string>
+				<key>ExerciseColoredImage</key>
+				<string>TheConductor.png</string>
+				<key>ExerciseMainImage</key>
+				<string>TheConductorExercise.png</string>
+				<key>ExerciseSketchImage</key>
+				<string>TheConductor Tracing.png</string>
+				<key>ExerciseAudio</key>
+				<string>04 The Conductor - english</string>
+				<key>Free</key>
+				<string>NO</string>
+			</dict>
+			<dict>
+				<key>ExerciseMainAudio</key>
+				<string>05 The Wishing Star - music</string>
+				<key>ExerciseName</key>
+				<string>Wishing Star</string>
+				<key>ExerciseColoredImage</key>
+				<string>WishingStar.png</string>
+				<key>ExerciseMainImage</key>
+				<string>WishingStarExercise.png</string>
+				<key>ExerciseSketchImage</key>
+				<string>WishingStarTracing.png</string>
+				<key>ExerciseAudio</key>
+				<string>05 The Wishing Star - english</string>
+				<key>Free</key>
+				<string>NO</string>
+			</dict>
+			<dict>
+				<key>ExerciseMainAudio</key>
+				<string>06 What a Beautiful Day - music</string>
+				<key>ExerciseName</key>
+				<string>Beautiful Day</string>
+				<key>ExerciseColoredImage</key>
+				<string>BeautifulDay.png</string>
+				<key>ExerciseMainImage</key>
+				<string>BeauDayExercise.png</string>
+				<key>ExerciseSketchImage</key>
+				<string>BeauDayTracing.png</string>
+				<key>ExerciseAudio</key>
+				<string>06 What a Beautiful Day - english</string>
+				<key>Free</key>
+				<string>NO</string>
+			</dict>
+			<dict>
+				<key>ExerciseMainAudio</key>
+				<string>07 Birds in Flight - music</string>
+				<key>ExerciseName</key>
+				<string>Birdish Flight</string>
+				<key>ExerciseColoredImage</key>
+				<string>BirdsInFlight.png</string>
+				<key>ExerciseMainImage</key>
+				<string>BirdsExercise.png</string>
+				<key>ExerciseSketchImage</key>
+				<string>BirdsTracing.png</string>
+				<key>ExerciseAudio</key>
+				<string>07 Birds in Flight - english</string>
+				<key>Free</key>
+				<string>NO</string>
+			</dict>
+			<dict>
+				<key>ExerciseMainAudio</key>
+				<string>08 The Box Turtle - music</string>
+				<key>ExerciseName</key>
+				<string>Turtle</string>
+				<key>ExerciseColoredImage</key>
+				<string>BoxTurtle.png</string>
+				<key>ExerciseMainImage</key>
+				<string>Turtle Exercise.png</string>
+				<key>ExerciseSketchImage</key>
+				<string>TurtleTracing.png</string>
+				<key>ExerciseAudio</key>
+				<string>08 The Box Turtle - english</string>
+				<key>Free</key>
+				<string>NO</string>
+			</dict>
+			<dict>
+				<key>ExerciseMainAudio</key>
+				<string>09 The Bunny&apos;s Ears - music</string>
+				<key>ExerciseName</key>
+				<string>BunnyEars</string>
+				<key>ExerciseColoredImage</key>
+				<string>BunnyEars.png</string>
+				<key>ExerciseMainImage</key>
+				<string>Bunny Exercise.png</string>
+				<key>ExerciseSketchImage</key>
+				<string>Bunny Tracing.png</string>
+				<key>ExerciseAudio</key>
+				<string>09 The Bunny&apos;s Ears - english</string>
+				<key>Free</key>
+				<string>NO</string>
+			</dict>
+			<dict>
+				<key>ExerciseMainAudio</key>
+				<string>10 Snow Ball Toss - music</string>
+				<key>ExerciseName</key>
+				<string>snowball</string>
+				<key>ExerciseColoredImage</key>
+				<string>SnowBall.png</string>
+				<key>ExerciseMainImage</key>
+				<string>SnowballExercise.png</string>
+				<key>ExerciseSketchImage</key>
+				<string>SnowballTracing.png</string>
+				<key>ExerciseAudio</key>
+				<string>10 Snow Ball Toss - english</string>
+				<key>Free</key>
+				<string>NO</string>
+			</dict>
+			<dict>
+				<key>ExerciseMainAudio</key>
+				<string>11 The Enchanted Flag - music</string>
+				<key>ExerciseName</key>
+				<string>Flag</string>
+				<key>ExerciseColoredImage</key>
+				<string>Flag.png</string>
+				<key>ExerciseMainImage</key>
+				<string>Flag Exercise.png</string>
+				<key>ExerciseSketchImage</key>
+				<string>Flag Tracing.png</string>
+				<key>ExerciseAudio</key>
+				<string>11 The Enchanted Flag - english</string>
+				<key>Free</key>
+				<string>NO</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>
